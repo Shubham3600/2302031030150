@@ -1,0 +1,416 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 153px;
+}
+.heart-icon,
+.round-icon {
+  position: absolute;
+  top: 14px;
+  left: 62px;
+  width: 12px;
+  height: 11.2px;
+}
+.round-icon {
+  top: 32px;
+  left: 20px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.down-arrow-icon {
+  position: absolute;
+  top: 36.4px;
+  left: 384.4px;
+  width: 10.3px;
+  height: 5.5px;
+}
+.comment-stroke-icon,
+.heart-stroke-icon {
+  position: absolute;
+  bottom: 0.8px;
+  left: 163.5px;
+  width: 15px;
+  height: 14px;
+}
+.comment-stroke-icon {
+  bottom: 0.3px;
+  left: 0;
+  height: 14.5px;
+}
+.retweet-stroke-icon {
+  position: absolute;
+  bottom: 1px;
+  left: 80.4px;
+  width: 17.9px;
+  height: 13px;
+}
+.share-stroke-icon {
+  position: absolute;
+  bottom: 0;
+  left: 244.5px;
+  width: 15.3px;
+  height: 14.8px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  bottom: 0.8px;
+  left: 18.5px;
+  letter-spacing: -0.3px;
+}
+.div1,
+.div2 {
+  left: 100.5px;
+}
+.div2 {
+  left: 181.5px;
+}
+.action-buttons {
+  position: absolute;
+  bottom: 10.2px;
+  left: 84.5px;
+  width: 259.8px;
+  height: 14.8px;
+  font-size: var(--font-size-xs);
+}
+.zack-john-liked {
+  position: absolute;
+  top: 10px;
+  left: 83px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.15px;
+}
+.karennne,
+.span {
+  font-weight: 600;
+}
+.h,
+.span {
+  font-family: var(--font-sf-pro-text);
+}
+.karennne-10h {
+  color: var(--darken-text);
+}
+.karennne-karennne-10h-container,
+.name-a-show {
+  position: absolute;
+  top: 29px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  color: var(--bold-text);
+}
+.name-a-show {
+  top: 50px;
+  line-height: 20.5px;
+  display: inline-block;
+  width: 306px;
+  height: 61px;
+}
+.background1,
+.tweet {
+  position: absolute;
+  left: 0;
+}
+.tweet {
+  height: 16.29%;
+  width: 100%;
+  top: 76.12%;
+  right: 0;
+  bottom: 7.59%;
+  overflow: hidden;
+}
+.background1 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 290.3px;
+}
+.tabitha-potter {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.kobes-passing-is {
+  margin: 0;
+}
+.kobes-passing-is-container {
+  position: absolute;
+  top: 50px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  line-height: 20.5px;
+  color: var(--bold-text);
+  display: inline-block;
+  width: 311px;
+  height: 207px;
+}
+.retweet-stroke-icon2 {
+  position: absolute;
+  bottom: 266.7px;
+  left: 60.8px;
+  width: 14.5px;
+  height: 10.5px;
+}
+.tick-icon {
+  position: absolute;
+  top: 32px;
+  left: 195px;
+  width: 14px;
+  height: 14px;
+}
+.background2,
+.tweet1 {
+  position: absolute;
+  left: 0;
+}
+.tweet1 {
+  height: 32.48%;
+  width: 100%;
+  top: 43.75%;
+  right: 0;
+  bottom: 23.77%;
+  overflow: hidden;
+}
+.background2 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 105.3px;
+}
+.action-buttons2 {
+  position: absolute;
+  bottom: 11.2px;
+  left: 84.5px;
+  width: 259.8px;
+  height: 14.8px;
+  font-size: var(--font-size-xs);
+}
+.yall-ready-for {
+  position: absolute;
+  top: 50px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  color: var(--bold-text);
+}
+.background3,
+.tweet2 {
+  position: absolute;
+  left: 0;
+}
+.tweet2 {
+  height: 11.83%;
+  width: 100%;
+  top: 32.03%;
+  right: 0;
+  bottom: 56.14%;
+  overflow: hidden;
+}
+.background3 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 199.3px;
+}
+.heart-solid-icon1 {
+  position: absolute;
+  top: 13px;
+  left: 62px;
+  width: 12px;
+  height: 11.2px;
+}
+.round-icon3,
+.round-icon4 {
+  position: absolute;
+  top: 31px;
+  left: 20px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.round-icon4 {
+  top: 159px;
+  left: 29px;
+  width: 37px;
+  height: 37px;
+}
+.line-icon {
+  position: absolute;
+  top: 91px;
+  left: 47px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 65.5px;
+}
+.down-arrow-icon3 {
+  position: absolute;
+  top: 35.4px;
+  left: 384.4px;
+  width: 10.3px;
+  height: 5.5px;
+}
+.b1 {
+  color: var(--color-red);
+}
+.tellmeaboutyou {
+  color: var(--blue-active);
+}
+.show-this-thread,
+.uxrux-you-can-container {
+  position: absolute;
+  left: 83px;
+  letter-spacing: -0.3px;
+}
+.uxrux-you-can-container {
+  top: 50px;
+  line-height: 20.5px;
+  display: inline-block;
+  width: 302px;
+  height: 82px;
+  color: var(--bold-text);
+}
+.show-this-thread {
+  top: 168px;
+  color: var(--blue-active);
+}
+.action-buttons3 {
+  position: absolute;
+  bottom: 43.2px;
+  left: 84.5px;
+  width: 259.8px;
+  height: 14.8px;
+  font-size: var(--font-size-xs);
+}
+.tweet3 {
+  position: absolute;
+  height: 22.32%;
+  width: 100%;
+  top: 9.82%;
+  right: 0;
+  bottom: 67.86%;
+  left: 0;
+  overflow: hidden;
+}
+.add-text-button {
+  position: absolute;
+  top: 745px;
+  left: 346.4px;
+  width: 56px;
+  height: 56px;
+}
+.navigation-bar-icon,
+.top-bar-icon {
+  position: absolute;
+  top: calc(50% + 364px);
+  left: 0;
+  width: 414px;
+  height: 84px;
+  overflow: hidden;
+}
+.top-bar-icon {
+  top: calc(50% - 448px);
+  height: 89px;
+}
+.background4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -2.86%;
+  right: 0;
+  bottom: 2.86%;
+  left: 0;
+}
+.line {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  width: 134px;
+  height: 5px;
+}
+.bars-home-indicator {
+  position: absolute;
+  top: 861px;
+  left: 0;
+  width: 414px;
+  height: 35px;
+  overflow: hidden;
+}
+.background5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -2.27%;
+  right: 0;
+  bottom: 2.27%;
+  left: 0;
+}
+.battery-icon {
+  position: absolute;
+  top: calc(50% - 5px);
+  right: 14.5px;
+  width: 24.5px;
+  height: 10.5px;
+  object-fit: cover;
+}
+.wifi-icon {
+  position: relative;
+  width: 16.9px;
+  height: 11px;
+}
+.mobile-signal-icon {
+  position: relative;
+  width: 18.8px;
+  height: 10.7px;
+}
+.div12 {
+  position: absolute;
+  width: calc(100% + 0.4px);
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style {
+  position: absolute;
+  height: 40.91%;
+  width: 14.4%;
+  top: 29.55%;
+  right: 80%;
+  bottom: 29.55%;
+  left: 5.6%;
+  overflow: hidden;
+}
+.bars-status-bar-iphone-x {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.twitter-home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--darken-text);
+  font-family: var(--font-sf-pro-text);
+}

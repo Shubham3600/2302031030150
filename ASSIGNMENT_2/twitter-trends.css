@@ -1,0 +1,258 @@
+.background97,
+.background98 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--background);
+  width: 414px;
+  height: 896px;
+}
+.background98 {
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  height: 201px;
+}
+.no-new-trends {
+  position: absolute;
+  top: 37px;
+  left: 80px;
+  letter-spacing: 0.15px;
+  font-weight: 800;
+}
+.button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--blue-active);
+  width: 136px;
+  height: 34px;
+}
+.change-location {
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  letter-spacing: -0.1px;
+  font-weight: 600;
+}
+.button2 {
+  position: absolute;
+  top: 130px;
+  left: 139px;
+  width: 136px;
+  height: 34px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.it-seems-like {
+  position: absolute;
+  top: 77px;
+  left: 34px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.3px;
+  color: var(--darken-text);
+  display: inline-block;
+  width: 346px;
+}
+.info {
+  position: absolute;
+  top: 135px;
+  left: 0;
+  width: 414px;
+  height: 202px;
+  overflow: hidden;
+}
+.add-text-button5 {
+  position: absolute;
+  top: 744.6px;
+  left: 346.4px;
+  width: 56px;
+  height: 56px;
+}
+.navigation-bar-icon5 {
+  position: absolute;
+  top: calc(50% + 364px);
+  left: 0;
+  width: 414px;
+  height: 84px;
+  overflow: hidden;
+}
+.background99 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 47.3px;
+}
+.trends-for-you {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  letter-spacing: -0.3px;
+  font-weight: 800;
+}
+.background100,
+.heading {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.heading {
+  top: 88px;
+  height: 48px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+}
+.background100 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 0.3px 0#bdc5cd;
+  height: 88px;
+}
+.rectangle85,
+.setiings-stroke-icon {
+  position: absolute;
+  top: 55.5px;
+  left: 371px;
+  width: 21.5px;
+  height: 21.5px;
+}
+.rectangle85 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--background);
+  width: 286px;
+  height: 32px;
+}
+.search-icon3 {
+  position: absolute;
+  top: 10px;
+  left: 78px;
+  width: 13px;
+  height: 13px;
+}
+.search-twitter1 {
+  position: absolute;
+  top: 6px;
+  left: 97px;
+  letter-spacing: -0.3px;
+}
+.account-icon2,
+.search-bar1,
+.search-field2 {
+  position: absolute;
+  top: 50px;
+  left: 68px;
+  width: 286px;
+  height: 32px;
+}
+.account-icon2,
+.search-bar1 {
+  left: 20px;
+  width: 32px;
+}
+.search-bar1 {
+  top: 1px;
+  left: 0;
+  width: 414px;
+  height: 89px;
+  font-size: var(--font-size-mid);
+  color: var(--darken-text);
+}
+.background101 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -2.86%;
+  right: 0;
+  bottom: 2.86%;
+  left: 0;
+}
+.line11 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  width: 134px;
+  height: 5px;
+}
+.bars-home-indicator8 {
+  position: absolute;
+  top: 861px;
+  left: 0;
+  width: 414px;
+  height: 35px;
+  overflow: hidden;
+}
+.background102 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.battery-icon10 {
+  position: absolute;
+  top: calc(50% - 4px);
+  right: 14.5px;
+  width: 24.5px;
+  height: 10.5px;
+  object-fit: cover;
+}
+.wifi-icon10 {
+  position: relative;
+  width: 16.9px;
+  height: 11px;
+}
+.mobile-signal-icon10 {
+  position: relative;
+  width: 18.8px;
+  height: 10.7px;
+}
+.div54 {
+  position: absolute;
+  width: calc(100% + 0.4px);
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style10 {
+  position: absolute;
+  height: 40.91%;
+  width: 14.4%;
+  top: 31.82%;
+  right: 80%;
+  bottom: 27.27%;
+  left: 5.6%;
+  overflow: hidden;
+}
+.bars-status-bar-iphone-x10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.twitter-trends {
+  width: 100%;
+  position: relative;
+  height: 896px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--bold-text);
+  font-family: var(--font-sf-pro-text);
+}

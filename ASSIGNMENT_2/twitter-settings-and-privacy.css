@@ -1,0 +1,519 @@
+.background6,
+.background7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--background);
+  width: 414px;
+  height: 896px;
+}
+.background7 {
+  height: 60px;
+}
+.general {
+  position: absolute;
+  top: 24px;
+  left: 20px;
+  letter-spacing: -0.5px;
+  font-weight: 800;
+}
+.background8,
+.settings-header {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.settings-header {
+  top: 312px;
+  height: 60px;
+  overflow: hidden;
+  color: var(--darken-text);
+}
+.background8 {
+  top: 0;
+  background-color: var(--background);
+  height: 48px;
+}
+.pixsellz {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  letter-spacing: -0.5px;
+  font-weight: 800;
+}
+.settings-header1 {
+  position: absolute;
+  top: 88px;
+  left: 0;
+  width: 414px;
+  height: 47px;
+  overflow: hidden;
+  color: var(--darken-text);
+}
+.background10,
+.background9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 414px;
+}
+.background9 {
+  box-shadow: var(--secondary-card);
+  height: 176px;
+}
+.background10 {
+  height: 100%;
+  bottom: 0;
+}
+.secondary-separator {
+  position: absolute;
+  top: -0.2px;
+  left: 19.8px;
+  border-top: 0.3px solid var(--secondary-spearator);
+  box-sizing: border-box;
+  width: 394.3px;
+  height: 0.3px;
+}
+.right-arrow-icon {
+  position: absolute;
+  bottom: 15px;
+  left: 382px;
+  width: 7px;
+  height: 13px;
+  object-fit: contain;
+}
+.row {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+}
+.privacy-and-safety {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+}
+.row1 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+}
+.right-arrow-icon2 {
+  position: absolute;
+  bottom: 15.5px;
+  left: 382px;
+  width: 7px;
+  height: 13px;
+  object-fit: contain;
+}
+.row2,
+.row3 {
+  height: 44px;
+  overflow: hidden;
+}
+.row2 {
+  position: absolute;
+  top: 88px;
+  left: 0;
+  width: 414px;
+}
+.row3 {
+  top: 132px;
+}
+.account,
+.background14,
+.row3 {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.account {
+  top: 135px;
+  height: 176px;
+  font-size: var(--font-size-base);
+}
+.background14 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 0.3px 0#bdc5cd;
+  height: 88px;
+}
+.done,
+.settings-and-privacy {
+  position: absolute;
+  bottom: 13px;
+  left: 121px;
+  letter-spacing: -0.5px;
+  font-weight: 800;
+}
+.done {
+  left: 352px;
+  font-weight: 600;
+  color: var(--blue-active);
+}
+.background15,
+.top-bar {
+  position: absolute;
+  left: 0;
+}
+.top-bar {
+  top: 0;
+  width: 414px;
+  height: 89px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.background15 {
+  height: 100%;
+  width: 100%;
+  top: -2.86%;
+  right: 0;
+  bottom: 2.86%;
+}
+.line2 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  width: 134px;
+  height: 5px;
+}
+.bars-home-indicator1 {
+  position: absolute;
+  top: 861px;
+  left: 0;
+  width: 414px;
+  height: 35px;
+  overflow: hidden;
+}
+.background16 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -2.27%;
+  right: 0;
+  bottom: 2.27%;
+  left: 0;
+}
+.battery-icon1 {
+  position: absolute;
+  top: calc(50% - 5px);
+  right: 14.5px;
+  width: 24.5px;
+  height: 10.5px;
+  object-fit: cover;
+}
+.wifi-icon1 {
+  position: relative;
+  width: 16.9px;
+  height: 11px;
+}
+.mobile-signal-icon1 {
+  position: relative;
+  width: 18.8px;
+  height: 10.7px;
+}
+.div13 {
+  position: absolute;
+  width: calc(100% + 0.4px);
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style1 {
+  position: absolute;
+  height: 40.91%;
+  width: 14.4%;
+  top: 29.55%;
+  right: 80%;
+  bottom: 29.55%;
+  left: 5.6%;
+  overflow: hidden;
+}
+.background17,
+.bars-status-bar-iphone-x1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+}
+.bars-status-bar-iphone-x1 {
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.background17 {
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  height: 236.7px;
+}
+.general-settings-affect {
+  position: absolute;
+  top: 189px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.15px;
+  color: var(--darken-text);
+  display: inline-block;
+  width: 374px;
+}
+.secondary-separator4 {
+  position: absolute;
+  top: 175.8px;
+  left: 19.8px;
+  border-top: 0.3px solid var(--secondary-spearator);
+  box-sizing: border-box;
+  width: 394.3px;
+  height: 0.3px;
+}
+.background18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.right-arrow-icon4,
+.right-arrow-icon6 {
+  position: absolute;
+  top: 16px;
+  right: 25px;
+  width: 7px;
+  height: 13px;
+  object-fit: contain;
+}
+.right-arrow-icon6 {
+  top: 15.5px;
+}
+.backgorund {
+  position: absolute;
+  top: 0.3px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  box-shadow: 0-0.3px 0#3f3f3f;
+  width: 414px;
+  height: 131.7px;
+}
+.tweet-your-reply {
+  position: absolute;
+  top: 59px;
+  left: 75px;
+  letter-spacing: -0.3px;
+}
+.comment-stroke-icon4 {
+  position: absolute;
+  bottom: 0.1px;
+  left: 0;
+  width: 17px;
+  height: 17px;
+}
+.retweet-solid-stroke-icon {
+  position: absolute;
+  top: 0.7px;
+  left: 108.4px;
+  width: 22.3px;
+  height: 16.4px;
+}
+.share-stroke-icon4 {
+  position: absolute;
+  bottom: 0.1px;
+  left: 330.5px;
+  width: 17px;
+  height: 17px;
+}
+.p {
+  margin: 0;
+}
+.div14 {
+  bottom: 0.1px;
+  left: 135px;
+  letter-spacing: -0.3px;
+  font-weight: 500;
+  display: inline-block;
+  width: 7.3px;
+}
+.div14,
+.div15,
+.heart-solid-icon2 {
+  position: absolute;
+  height: 17px;
+}
+.div15 {
+  bottom: 0.1px;
+  left: 244.7px;
+  letter-spacing: -0.3px;
+  font-weight: 500;
+  color: var(--color-indianred);
+  display: inline-block;
+  width: 9.7px;
+}
+.heart-solid-icon2 {
+  top: 0;
+  left: 220.8px;
+  width: 18.2px;
+}
+.action-buttons4 {
+  position: absolute;
+  bottom: 100.9px;
+  left: 33px;
+  width: 347.5px;
+  height: 17.1px;
+  font-size: var(--font-size-sm);
+  color: #59bc6c;
+}
+.primary-account-icon {
+  position: absolute;
+  top: 51px;
+  left: 20px;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.bottom-bar-child {
+  position: absolute;
+  top: 51px;
+  left: 63px;
+  border-radius: 17.5px;
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 331px;
+  height: 35px;
+}
+.background22,
+.bottom-bar {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.bottom-bar {
+  top: 764px;
+  background-color: #3f3f3f;
+  height: 132px;
+  overflow: hidden;
+}
+.background22 {
+  top: 0;
+  background-color: var(--color-gray-200);
+  height: 44px;
+}
+.line3 {
+  top: 22.5px;
+  left: 49.5px;
+  border-top: 3px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 264px;
+  height: 3px;
+}
+.line3,
+.line4,
+.round {
+  position: absolute;
+}
+.line4 {
+  top: 22.5px;
+  left: 49.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 37px;
+  height: 3px;
+}
+.round {
+  top: 14.5px;
+  left: 76.5px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+  width: 16px;
+  height: 16px;
+}
+.pause-icon {
+  position: absolute;
+  top: 14px;
+  left: 16.7px;
+  width: 11px;
+  height: 16.3px;
+}
+.div16 {
+  position: absolute;
+  top: 15px;
+  left: 333px;
+  letter-spacing: 0.3px;
+  font-weight: 500;
+}
+.video-timing-bar {
+  position: absolute;
+  top: 720px;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.close-button-icon,
+.minimize-button-icon {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  width: 32px;
+  height: 32px;
+}
+.minimize-button-icon {
+  left: 366px;
+}
+.line5 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: #e3e3e3;
+  width: 134px;
+  height: 5px;
+}
+.twitter-video-player {
+  position: absolute;
+  top: -9px;
+  left: 230px;
+  background-color: var(--color-white);
+  width: 414px;
+  height: 896px;
+  overflow: hidden;
+  color: #c5c5c5;
+}
+.general1 {
+  position: absolute;
+  top: 380px;
+  left: 0;
+  width: 414px;
+  height: 236.7px;
+  font-size: var(--font-size-base);
+}
+.twitter-settings-and-privacy {
+  width: 100%;
+  position: relative;
+  background-color: var(--background);
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--bold-text);
+  font-family: var(--font-sf-pro-text);
+}

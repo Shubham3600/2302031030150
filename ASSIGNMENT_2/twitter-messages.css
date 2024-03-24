@@ -1,0 +1,342 @@
+.background56 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 79.7px;
+}
+.round-icon20 {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.div29,
+.zack-john-zackjohn-container {
+  position: absolute;
+  top: 9px;
+  letter-spacing: -0.3px;
+}
+.zack-john-zackjohn-container {
+  left: 83px;
+  color: var(--bold-text);
+}
+.div29 {
+  left: 335px;
+  text-align: right;
+}
+.account11 {
+  position: absolute;
+  top: 792px;
+  left: 0;
+  width: 414px;
+  height: 80px;
+}
+.div30,
+.you-hi-kiero {
+  position: absolute;
+  letter-spacing: -0.3px;
+}
+.you-hi-kiero {
+  top: 30px;
+  left: 83px;
+  display: inline-block;
+  width: 311px;
+}
+.div30 {
+  top: 9px;
+  left: 340px;
+  text-align: right;
+}
+.account12 {
+  position: absolute;
+  top: 712px;
+  left: 0;
+  width: 414px;
+  height: 80px;
+}
+.martin-randolph {
+  font-weight: 600;
+}
+.martini-rond {
+  color: var(--darken-text);
+}
+.div31 {
+  position: absolute;
+  top: 9px;
+  left: 348px;
+  letter-spacing: -0.3px;
+  text-align: right;
+}
+.account13 {
+  position: absolute;
+  top: 632px;
+  left: 0;
+  width: 414px;
+  height: 80px;
+}
+.you-just-started {
+  position: absolute;
+  top: 30px;
+  left: 83px;
+  letter-spacing: -0.3px;
+}
+.account14 {
+  position: absolute;
+  top: 552px;
+  left: 0;
+  width: 414px;
+  height: 80px;
+}
+.div33 {
+  position: absolute;
+  top: 9px;
+  left: 338px;
+  letter-spacing: -0.3px;
+  text-align: right;
+}
+.account15,
+.round-icon25 {
+  position: absolute;
+  top: 472px;
+  left: 0;
+  width: 414px;
+  height: 80px;
+}
+.round-icon25 {
+  top: 12px;
+  left: 20px;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.div34 {
+  position: absolute;
+  top: 9px;
+  left: 337px;
+  letter-spacing: -0.3px;
+  text-align: right;
+}
+.account16 {
+  position: absolute;
+  top: 392px;
+  left: 0;
+  width: 414px;
+  height: 80px;
+}
+.div35 {
+  position: absolute;
+  top: 9px;
+  left: 342px;
+  letter-spacing: -0.3px;
+  text-align: right;
+}
+.account17,
+.account18 {
+  position: absolute;
+  top: 232px;
+  left: 0;
+  width: 414px;
+  height: 80px;
+}
+.account18 {
+  top: 152px;
+}
+.add-text-button2 {
+  position: absolute;
+  top: 744.6px;
+  left: 346.4px;
+  width: 56px;
+  height: 56px;
+}
+.navigation-bar-icon2 {
+  position: absolute;
+  top: calc(50% + 364px);
+  left: 0;
+  width: 414px;
+  height: 84px;
+  overflow: hidden;
+}
+.bakground,
+.rectangle83 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bakground {
+  background-color: var(--color-white);
+  box-shadow: 0 1px 0#bdc5cd;
+  width: 414px;
+  height: 63px;
+}
+.rectangle83 {
+  border-radius: var(--br-base);
+  background-color: var(--background);
+  width: 382px;
+  height: 32px;
+}
+.search-icon2 {
+  position: absolute;
+  top: 9.5px;
+  left: 9.5px;
+  width: 13px;
+  height: 13px;
+}
+.search-for-people1 {
+  position: absolute;
+  top: 6px;
+  left: 29px;
+  letter-spacing: -0.4px;
+}
+.search-field1 {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  width: 382px;
+  height: 32px;
+}
+.background64,
+.search-bar {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.search-bar {
+  top: 88px;
+  height: 64px;
+  font-size: var(--font-size-mid);
+}
+.background64 {
+  top: 0;
+  background-color: var(--color-white);
+  height: 88px;
+}
+.settings-stroke-icon {
+  position: absolute;
+  top: 55.5px;
+  left: 371px;
+  width: 21.5px;
+  height: 21.5px;
+}
+.messages {
+  position: absolute;
+  top: 56px;
+  left: 164px;
+  letter-spacing: -0.3px;
+  font-weight: 800;
+}
+.account-icon,
+.status-bar {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  width: 32px;
+  height: 32px;
+}
+.status-bar {
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 88px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--bold-text);
+}
+.background65 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -2.86%;
+  right: 0;
+  bottom: 2.86%;
+  left: 0;
+}
+.line7 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  width: 134px;
+  height: 5px;
+}
+.bars-home-indicator4 {
+  position: absolute;
+  top: 861px;
+  left: 0;
+  width: 414px;
+  height: 35px;
+  overflow: hidden;
+}
+.background66 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.battery-icon6 {
+  position: absolute;
+  top: calc(50% - 4px);
+  right: 14.5px;
+  width: 24.5px;
+  height: 10.5px;
+  object-fit: cover;
+}
+.wifi-icon6 {
+  position: relative;
+  width: 16.9px;
+  height: 11px;
+}
+.mobile-signal-icon6 {
+  position: relative;
+  width: 18.8px;
+  height: 10.7px;
+}
+.div37 {
+  position: absolute;
+  width: calc(100% + 0.4px);
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style6 {
+  position: absolute;
+  height: 40.91%;
+  width: 14.4%;
+  top: 31.82%;
+  right: 80%;
+  bottom: 27.27%;
+  left: 5.6%;
+  overflow: hidden;
+}
+.bars-status-bar-iphone-x6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.twitter-messages {
+  width: 100%;
+  position: relative;
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--darken-text);
+  font-family: var(--font-sf-pro-text);
+}

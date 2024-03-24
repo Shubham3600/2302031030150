@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sf-pro-text: "SF Pro Text";
+  --font-sf-pro-display: "SF Pro Display";
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-mid: 17px;
+  --font-size-lgi: 19px;
+  --font-size-3xl: 22px;
+  --font-size-3xl-5: 22.5px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fcfcfe;
+  --color-gray-200: #191919;
+  --color-gray-300: #171717;
+  --bold-text: #141619;
+  --color-gray-400: #060606;
+  --darken-text: #687684;
+  --blue-active: #4c9eeb;
+  --color-red: #ff0000;
+  --background: #e7ecf0;
+  --color-darkslategray-100: #474747;
+  --color-indianred: #ce395f;
+  --color-lightgray-100: #d1d5db;
+  --secondary-spearator: #ced5dc;
+  --color-lightgray-200: #ccced3;
+  --color-black: #000;
+  --blue-non-active: #b9dcf7;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-base: 16px;
+  --br-8xs-6: 4.6px;
+  --br-mid: 17px;
+  --br-12xs-5: 0.5px;
+
+  /* Effects */
+  --secondary-card: 0px 0.3px 0px #ced5dc;
+}

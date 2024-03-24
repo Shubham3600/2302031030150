@@ -1,0 +1,325 @@
+.background90 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 181px;
+}
+.star-solid-icon {
+  position: absolute;
+  top: 12px;
+  left: 51px;
+  border-radius: var(--br-12xs-5);
+  width: 24px;
+  height: 24px;
+}
+.round-icon33 {
+  position: absolute;
+  top: 12px;
+  left: 83px;
+  border-radius: 50%;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.in-case-you {
+  font-family: var(--font-sf-pro-text);
+  color: var(--darken-text);
+}
+.teador {
+  font-weight: 600;
+}
+.s-tweet {
+  color: var(--darken-text);
+}
+.im-always-surprised,
+.in-case-you-container {
+  position: absolute;
+  top: 56px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  line-height: 20.5px;
+  display: inline-block;
+  width: 309px;
+  height: 39px;
+}
+.im-always-surprised {
+  top: 96px;
+  color: var(--darken-text);
+  width: 311px;
+  height: 40px;
+}
+.background91,
+.tweet10 {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.tweet10 {
+  top: 680px;
+  height: 136px;
+  overflow: hidden;
+}
+.background91 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  height: 293px;
+}
+.ux-upper {
+  font-weight: 600;
+  color: var(--bold-text);
+}
+.in-case-you-container1 {
+  position: absolute;
+  top: 57px;
+  left: 83px;
+  letter-spacing: -0.3px;
+}
+.creating-meaningful-experience {
+  margin: 0;
+}
+.creating-meaningful-experience-container {
+  position: absolute;
+  top: 79px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  line-height: 20.5px;
+  display: inline-block;
+  width: 311px;
+  height: 209px;
+}
+.background92,
+.tweet11 {
+  position: absolute;
+  width: 414px;
+}
+.tweet11 {
+  top: 375px;
+  left: -12px;
+  height: 294px;
+  overflow: hidden;
+  color: var(--darken-text);
+}
+.background92 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  height: 255px;
+}
+.down-arro-icon {
+  position: absolute;
+  top: 13px;
+  right: 20px;
+  width: 9px;
+  height: 4.5px;
+}
+.span13 {
+  font-size: 23px;
+}
+.are-you-using-container {
+  position: absolute;
+  top: 82px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  line-height: 20.5px;
+  display: inline-block;
+  width: 311px;
+  height: 170px;
+}
+.background93,
+.tweet12 {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.tweet12 {
+  top: 132px;
+  height: 256px;
+  overflow: hidden;
+  color: var(--darken-text);
+}
+.background93 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  height: 44px;
+}
+.rectangle84 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  background-color: var(--blue-active);
+  width: 181px;
+  height: 2px;
+}
+.all,
+.mentions {
+  position: absolute;
+  top: 13px;
+  left: 81px;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+}
+.mentions {
+  left: 262px;
+  color: var(--darken-text);
+}
+.background94,
+.tabs-bar1 {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.tabs-bar1 {
+  top: 88px;
+  height: 45px;
+  text-align: center;
+  color: var(--blue-active);
+}
+.background94 {
+  top: 0;
+  background-color: var(--color-white);
+  height: 88px;
+}
+.settings-stroke-icon1 {
+  position: absolute;
+  bottom: 11px;
+  left: 371px;
+  width: 21.5px;
+  height: 21.5px;
+}
+.notifications1 {
+  position: absolute;
+  bottom: 12px;
+  left: 152px;
+  letter-spacing: -0.3px;
+  font-weight: 800;
+}
+.account-icon1 {
+  position: absolute;
+  bottom: 6px;
+  left: 20px;
+  width: 32px;
+  height: 32px;
+}
+.status-bar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 88px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.add-text-button4 {
+  position: absolute;
+  top: 744.6px;
+  left: 346.4px;
+  width: 56px;
+  height: 56px;
+}
+.navigation-bar-icon4 {
+  position: absolute;
+  top: calc(50% + 364px);
+  left: 0;
+  width: 414px;
+  height: 84px;
+  overflow: hidden;
+}
+.background95 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -2.86%;
+  right: 0;
+  bottom: 2.86%;
+  left: 0;
+}
+.line10 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  width: 134px;
+  height: 5px;
+}
+.bars-home-indicator7 {
+  position: absolute;
+  top: 861px;
+  left: 0;
+  width: 414px;
+  height: 35px;
+  overflow: hidden;
+}
+.background96 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.battery-icon9 {
+  position: absolute;
+  top: calc(50% - 4px);
+  right: 14.5px;
+  width: 24.5px;
+  height: 10.5px;
+  object-fit: cover;
+}
+.wifi-icon9 {
+  position: relative;
+  width: 16.9px;
+  height: 11px;
+}
+.mobile-signal-icon9 {
+  position: relative;
+  width: 18.8px;
+  height: 10.7px;
+}
+.div53 {
+  position: absolute;
+  width: calc(100% + 0.4px);
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style9 {
+  position: absolute;
+  height: 40.91%;
+  width: 14.4%;
+  top: 31.82%;
+  right: 80%;
+  bottom: 27.27%;
+  left: 5.6%;
+  overflow: hidden;
+}
+.bars-status-bar-iphone-x9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.twitter-notifications-all {
+  width: 100%;
+  position: relative;
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--bold-text);
+  font-family: var(--font-sf-pro-text);
+}

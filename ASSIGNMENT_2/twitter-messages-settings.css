@@ -1,0 +1,303 @@
+.background67 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--background);
+  width: 414px;
+  height: 896px;
+}
+.background68,
+.background69 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.background68 {
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 327px;
+}
+.background69 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.secondary-separator10 {
+  position: absolute;
+  top: -0.2px;
+  left: 19.8px;
+  border-top: 0.3px solid var(--secondary-spearator);
+  box-sizing: border-box;
+  width: 394.3px;
+  height: 0.3px;
+}
+.receive-messages-from {
+  position: absolute;
+  top: 13px;
+  left: 20px;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+}
+.you-will-be {
+  margin: 0;
+}
+.span5 {
+  color: var(--darken-text);
+}
+.learn-more {
+  margin: 0;
+  color: var(--blue-active);
+}
+.you-will-be-container {
+  position: absolute;
+  top: 44px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.15px;
+  display: inline-block;
+  width: 374px;
+  height: 53px;
+  color: var(--darken-text);
+}
+.controls-table-view-row,
+.row8 {
+  position: absolute;
+  overflow: hidden;
+}
+.controls-table-view-row {
+  height: 28.7%;
+  width: 12.32%;
+  top: 6.48%;
+  right: 4.83%;
+  bottom: 64.81%;
+  left: 82.85%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.row8 {
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 108px;
+}
+.quality-filter {
+  position: absolute;
+  top: 13.3px;
+  left: 20px;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+}
+.learn-more1 {
+  color: var(--blue-active);
+}
+.filters-lower-quality-messages-container {
+  position: absolute;
+  top: 44.3px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.15px;
+  display: inline-block;
+  width: 374px;
+  height: 37px;
+  color: var(--darken-text);
+}
+.controls-table-view-row1 {
+  position: absolute;
+  top: 7.3px;
+  right: 20px;
+  width: 51px;
+  height: 31px;
+}
+.row9 {
+  position: absolute;
+  top: 108px;
+  left: 0;
+  width: 414px;
+  height: 91px;
+  overflow: hidden;
+}
+.when-someone-sends-container {
+  position: absolute;
+  top: 44px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.15px;
+  display: inline-block;
+  width: 374px;
+  height: 72px;
+  color: var(--darken-text);
+}
+.controls-table-view-row2 {
+  position: absolute;
+  top: 7px;
+  right: 20px;
+  width: 51px;
+  height: 31px;
+}
+.background72,
+.privacy,
+.row10 {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.row10 {
+  top: 199px;
+  height: 127px;
+  overflow: hidden;
+}
+.background72,
+.privacy {
+  top: 135px;
+  height: 327px;
+}
+.background72 {
+  top: 0;
+  background-color: var(--background);
+  height: 48px;
+}
+.privacy1 {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  letter-spacing: -0.5px;
+  font-weight: 800;
+}
+.background73,
+.settings-header3 {
+  position: absolute;
+  left: 0;
+  width: 414px;
+}
+.settings-header3 {
+  top: 88px;
+  height: 47px;
+  overflow: hidden;
+  font-size: var(--font-size-lgi);
+  color: var(--darken-text);
+}
+.background73 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 0.3px 0#bdc5cd;
+  height: 88px;
+}
+.done1,
+.messages-settings {
+  position: absolute;
+  top: 56px;
+  left: 129px;
+  letter-spacing: 0.3px;
+  font-weight: 800;
+}
+.done1 {
+  left: 352px;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  font-family: var(--font-sf-pro-text);
+  color: var(--blue-active);
+}
+.left-arrow-icon2 {
+  position: absolute;
+  top: 57.5px;
+  left: 18.1px;
+  width: 9.9px;
+  height: 17px;
+}
+.background74,
+.top-bar4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.top-bar4 {
+  width: 414px;
+  height: 89px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-sf-pro-display);
+}
+.background74 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.line8 {
+  position: absolute;
+  bottom: 9px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  width: 134px;
+  height: 5px;
+}
+.bars-home-indicator5 {
+  position: absolute;
+  top: 861px;
+  left: 0;
+  width: 414px;
+  height: 35px;
+  overflow: hidden;
+}
+.battery-icon7 {
+  position: absolute;
+  top: calc(50% - 4px);
+  right: 14.5px;
+  width: 24.5px;
+  height: 10.5px;
+  object-fit: cover;
+}
+.wifi-icon7 {
+  position: relative;
+  width: 16.9px;
+  height: 11px;
+}
+.mobile-signal-icon7 {
+  position: relative;
+  width: 18.8px;
+  height: 10.7px;
+}
+.div38 {
+  position: absolute;
+  width: calc(100% + 0.4px);
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style7 {
+  position: absolute;
+  height: 40.91%;
+  width: 14.4%;
+  top: 31.82%;
+  right: 80%;
+  bottom: 27.27%;
+  left: 5.6%;
+  overflow: hidden;
+}
+.bars-status-bar-iphone-x7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.twitter-messages-settings {
+  width: 100%;
+  position: relative;
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--bold-text);
+  font-family: var(--font-sf-pro-text);
+}

@@ -1,0 +1,681 @@
+.background76,
+.background77 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 414px;
+  height: 896px;
+}
+.background77 {
+  box-shadow: var(--secondary-card);
+  height: 153px;
+}
+.heart-icon1,
+.round-icon28 {
+  position: absolute;
+  top: 14px;
+  left: 62px;
+  width: 12px;
+  height: 11.2px;
+}
+.round-icon28 {
+  top: 32px;
+  left: 20px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.down-arrow-icon5 {
+  position: absolute;
+  top: 36.4px;
+  left: 384.4px;
+  width: 10.3px;
+  height: 5.5px;
+}
+.comment-stroke-icon6,
+.heart-stroke-icon4 {
+  position: absolute;
+  bottom: 0.8px;
+  left: 163.5px;
+  width: 15px;
+  height: 14px;
+}
+.comment-stroke-icon6 {
+  bottom: 0.3px;
+  left: 0;
+  height: 14.5px;
+}
+.retweet-stroke-icon6 {
+  position: absolute;
+  bottom: 1px;
+  left: 80.4px;
+  width: 17.9px;
+  height: 13px;
+}
+.share-stroke-icon6 {
+  position: absolute;
+  bottom: 0;
+  left: 244.5px;
+  width: 15.3px;
+  height: 14.8px;
+}
+.div39,
+.div40,
+.div41 {
+  position: absolute;
+  bottom: 0.8px;
+  left: 18.5px;
+  letter-spacing: -0.3px;
+}
+.div40,
+.div41 {
+  left: 100.5px;
+}
+.div41 {
+  left: 181.5px;
+}
+.action-buttons6 {
+  position: absolute;
+  bottom: 10.2px;
+  left: 84.5px;
+  width: 259.8px;
+  height: 14.8px;
+  font-size: var(--font-size-xs);
+}
+.zack-john-liked2 {
+  position: absolute;
+  top: 10px;
+  left: 83px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.15px;
+}
+.karennne4,
+.span6 {
+  font-weight: 600;
+}
+.h4,
+.span6 {
+  font-family: var(--font-sf-pro-text);
+}
+.karennne-10h1 {
+  color: var(--darken-text);
+}
+.karennne-karennne-10h-container1,
+.name-a-show1 {
+  position: absolute;
+  top: 29px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  color: var(--bold-text);
+}
+.name-a-show1 {
+  top: 50px;
+  line-height: 20.5px;
+  display: inline-block;
+  width: 306px;
+  height: 61px;
+}
+.background78,
+.tweet6 {
+  position: absolute;
+  left: 0;
+}
+.tweet6 {
+  height: 16.29%;
+  width: 100%;
+  top: 76.12%;
+  right: 0;
+  bottom: 7.59%;
+  overflow: hidden;
+}
+.background78 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 290.3px;
+}
+.tabitha-potter1 {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.kobes-passing-is1 {
+  margin: 0;
+}
+.kobes-passing-is-container1 {
+  position: absolute;
+  top: 50px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  line-height: 20.5px;
+  color: var(--bold-text);
+  display: inline-block;
+  width: 311px;
+  height: 207px;
+}
+.retweet-stroke-icon8 {
+  position: absolute;
+  bottom: 266.7px;
+  left: 60.8px;
+  width: 14.5px;
+  height: 10.5px;
+}
+.tick-icon4 {
+  position: absolute;
+  top: 32px;
+  left: 195px;
+  width: 14px;
+  height: 14px;
+}
+.background79,
+.tweet7 {
+  position: absolute;
+  left: 0;
+}
+.tweet7 {
+  height: 32.48%;
+  width: 100%;
+  top: 43.75%;
+  right: 0;
+  bottom: 23.77%;
+  overflow: hidden;
+}
+.background79 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 105.3px;
+}
+.action-buttons8 {
+  position: absolute;
+  bottom: 11.2px;
+  left: 84.5px;
+  width: 259.8px;
+  height: 14.8px;
+  font-size: var(--font-size-xs);
+}
+.yall-ready-for1 {
+  position: absolute;
+  top: 50px;
+  left: 83px;
+  letter-spacing: -0.3px;
+  color: var(--bold-text);
+}
+.background80,
+.tweet8 {
+  position: absolute;
+  left: 0;
+}
+.tweet8 {
+  height: 11.83%;
+  width: 100%;
+  top: 32.03%;
+  right: 0;
+  bottom: 56.14%;
+  overflow: hidden;
+}
+.background80 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: var(--secondary-card);
+  width: 414px;
+  height: 199.3px;
+}
+.heart-solid-icon5 {
+  position: absolute;
+  top: 13px;
+  left: 62px;
+  width: 12px;
+  height: 11.2px;
+}
+.round-icon31,
+.round-icon32 {
+  position: absolute;
+  top: 31px;
+  left: 20px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.round-icon32 {
+  top: 159px;
+  left: 29px;
+  width: 37px;
+  height: 37px;
+}
+.line-icon1 {
+  position: absolute;
+  top: 91px;
+  left: 47px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 65.5px;
+}
+.down-arrow-icon8 {
+  position: absolute;
+  top: 35.4px;
+  left: 384.4px;
+  width: 10.3px;
+  height: 5.5px;
+}
+.b6 {
+  color: var(--color-red);
+}
+.tellmeaboutyou1 {
+  color: var(--blue-active);
+}
+.show-this-thread1,
+.uxrux-you-can-container1 {
+  position: absolute;
+  left: 83px;
+  letter-spacing: -0.3px;
+}
+.uxrux-you-can-container1 {
+  top: 50px;
+  line-height: 20.5px;
+  display: inline-block;
+  width: 302px;
+  height: 82px;
+  color: var(--bold-text);
+}
+.show-this-thread1 {
+  top: 168px;
+  color: var(--blue-active);
+}
+.action-buttons9 {
+  position: absolute;
+  bottom: 43.2px;
+  left: 84.5px;
+  width: 259.8px;
+  height: 14.8px;
+  font-size: var(--font-size-xs);
+}
+.tweet9 {
+  position: absolute;
+  height: 22.32%;
+  width: 100%;
+  top: 9.82%;
+  right: 0;
+  bottom: 67.86%;
+  left: 0;
+  overflow: hidden;
+}
+.add-text-button3 {
+  position: absolute;
+  top: 745px;
+  left: 346.4px;
+  width: 56px;
+  height: 56px;
+}
+.top-bar-icon1,
+.twitter-home1 {
+  position: absolute;
+  width: 414px;
+  overflow: hidden;
+}
+.top-bar-icon1 {
+  top: calc(50% - 448px);
+  left: 0;
+  height: 89px;
+}
+.twitter-home1 {
+  top: -2px;
+  left: 320px;
+  background-color: var(--color-white);
+  height: 896px;
+}
+.background81 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--background);
+  width: 414px;
+  height: 894px;
+  opacity: 0.5;
+}
+.navigation-bar-icon3 {
+  position: absolute;
+  top: calc(50% + 362px);
+  left: 320px;
+  width: 414px;
+  height: 84px;
+  overflow: hidden;
+}
+.background82 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0.3px 0 0#bdc5cd;
+  width: 320px;
+  height: 896px;
+}
+.secondary-acconut-icon,
+.secondary-account-icon {
+  position: absolute;
+  top: 60px;
+  left: 225px;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.secondary-acconut-icon {
+  top: 4px;
+  left: 0;
+}
+.notification-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--blue-active);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.div51 {
+  position: absolute;
+  top: 1px;
+  left: 5px;
+  letter-spacing: -0.3px;
+}
+.notification {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  width: 16px;
+  height: 16px;
+}
+.secondary-account {
+  position: absolute;
+  top: 56px;
+  left: 177px;
+  width: 40px;
+  height: 36px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.primary-account-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.pixsellz6 {
+  position: absolute;
+  top: 88px;
+  left: 0;
+  letter-spacing: -0.3px;
+}
+.primary-account {
+  position: absolute;
+  top: 60px;
+  left: 24px;
+  width: 69px;
+  height: 107px;
+  font-size: var(--font-size-base);
+  color: var(--darken-text);
+}
+.span8 {
+  font-weight: 500;
+}
+.span10 {
+  color: var(--color-red);
+  white-space: pre-wrap;
+}
+.following-117-followers-container {
+  position: absolute;
+  top: 183px;
+  left: 24px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.3px;
+}
+.menu-icon {
+  position: absolute;
+  top: 60px;
+  left: 273px;
+  width: 32px;
+  height: 32px;
+}
+.union-icon,
+.union-icon1 {
+  position: absolute;
+  top: 825px;
+  left: 22px;
+  width: 24px;
+  height: 24.5px;
+}
+.union-icon1 {
+  top: 827px;
+  left: 277px;
+  width: 20px;
+  height: 20px;
+}
+.help-center,
+.settings-and-privacy1 {
+  position: absolute;
+  top: 543px;
+  left: 25px;
+  letter-spacing: -0.1px;
+}
+.help-center {
+  top: 599px;
+}
+.divider {
+  position: absolute;
+  top: 513.8px;
+  left: -0.2px;
+  border-top: 0.3px solid #bdc5cd;
+  box-sizing: border-box;
+  width: 320.3px;
+  height: 0.3px;
+}
+.pixsellz7 {
+  position: absolute;
+  top: 124px;
+  left: 24px;
+  font-size: var(--font-size-lgi);
+  letter-spacing: -0.1px;
+}
+.background83 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 56px;
+}
+.profile-stroke-icon {
+  position: absolute;
+  top: 18.3px;
+  left: 25.8px;
+  width: 16.5px;
+  height: 20.5px;
+}
+.lists-icon,
+.menu-item {
+  position: absolute;
+  top: 221px;
+  left: 0;
+  width: 320px;
+  height: 56px;
+}
+.lists-icon {
+  top: 19px;
+  left: 24px;
+  width: 20px;
+  height: 20px;
+}
+.lists {
+  position: absolute;
+  top: 18px;
+  left: 64px;
+  letter-spacing: -0.1px;
+}
+.menu-item1 {
+  position: absolute;
+  top: 277px;
+  left: 0;
+  width: 320px;
+  height: 56px;
+}
+.topics-stroke-icon {
+  position: absolute;
+  top: 17.3px;
+  left: 25.1px;
+  width: 17.8px;
+  height: 22.3px;
+}
+.bookmarks-icon,
+.menu-item2 {
+  position: absolute;
+  top: 333px;
+  left: 0;
+  width: 320px;
+  height: 56px;
+}
+.bookmarks-icon {
+  top: 20px;
+  left: 24.5px;
+  width: 18px;
+  height: 20px;
+}
+.bookmarks {
+  position: absolute;
+  top: 18px;
+  left: 64.5px;
+  letter-spacing: -0.1px;
+}
+.menu-item3,
+.moments-icon {
+  position: absolute;
+  top: 389px;
+  left: 0;
+  width: 320px;
+  height: 56px;
+}
+.moments-icon {
+  top: 18.8px;
+  left: 27.7px;
+  width: 14.3px;
+  height: 21.1px;
+}
+.menu-item4 {
+  top: 445px;
+  width: 320px;
+  height: 56px;
+}
+.background88,
+.menu,
+.menu-item4 {
+  position: absolute;
+  left: 0;
+}
+.menu {
+  top: 0;
+  width: 321px;
+  height: 896px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--bold-text);
+}
+.background88 {
+  height: 100%;
+  width: 100%;
+  top: -2.86%;
+  right: 0;
+  bottom: 2.86%;
+}
+.line9 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  width: 134px;
+  height: 5px;
+}
+.bars-home-indicator6 {
+  position: absolute;
+  top: 861px;
+  left: 0;
+  width: 414px;
+  height: 35px;
+  overflow: hidden;
+}
+.background89 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.battery-icon8 {
+  position: absolute;
+  top: calc(50% - 4px);
+  right: 14.5px;
+  width: 24.5px;
+  height: 10.5px;
+  object-fit: cover;
+}
+.wifi-icon8 {
+  position: relative;
+  width: 16.9px;
+  height: 11px;
+}
+.mobile-signal-icon8 {
+  position: relative;
+  width: 18.8px;
+  height: 10.7px;
+}
+.div52 {
+  position: absolute;
+  width: calc(100% + 0.4px);
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style8 {
+  position: absolute;
+  height: 40.91%;
+  width: 14.4%;
+  top: 31.82%;
+  right: 80%;
+  bottom: 27.27%;
+  left: 5.6%;
+  overflow: hidden;
+}
+.bars-status-bar-iphone-x8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.twitter-menu {
+  width: 100%;
+  position: relative;
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--darken-text);
+  font-family: var(--font-sf-pro-text);
+}

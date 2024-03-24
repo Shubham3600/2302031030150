@@ -1,0 +1,7 @@
+.line1 {
+  width: 100%;
+  position: relative;
+  border-top: 2px solid rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  height: 2px;
+}
